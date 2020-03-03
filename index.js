@@ -48,5 +48,13 @@ function parseInt('3', 10) {
 }
 
 function parseFloat(8.444) {
-  
+
+}
+
+function makeInt(string) {
+  return parseInt(`string`)
+}
+
+function preserveDecimal(string) {
+  return parseFloat(`string`)
 }
