@@ -41,11 +41,12 @@ function decrement(n) {
 }
 
 function makeInt(string, x) {
-  var parse = parseInt(string, x)
+  var parse = parseInt(string, x);
+  x = 10;
   return parse
 }
 
 function preserveDecimal(string) {
-  preserveDecimal = parseFloat;
-  return parseFloat()
+  var parse = parseFloat(string);
+  return parse
 }
