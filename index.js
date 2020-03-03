@@ -40,9 +40,9 @@ function decrement(n) {
   return n
 }
 
-function makeInt(string) {
-  makeInt = parseInt(string, 10);
-  return parseInt()
+function makeInt(string, x) {
+  var parse = parseInt(string, x)
+  return parse
 }
 
 function preserveDecimal(string) {
