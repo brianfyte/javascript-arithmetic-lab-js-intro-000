@@ -36,7 +36,7 @@ function increment(n) {
 }
 
 function decrement(n) {
-  n = n--;
+  n--;
   return n
 }
 
