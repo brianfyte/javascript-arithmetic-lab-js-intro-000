@@ -44,5 +44,9 @@ function decrement(n) {
 }
 
 function parseInt('3', 10) {
+
+}
+
+function parseFloat(8.444) {
   
 }
