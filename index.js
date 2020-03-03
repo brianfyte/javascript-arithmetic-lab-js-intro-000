@@ -41,6 +41,14 @@ function divideBy3() {
   number /= 3
 }
 
+function increment(n) {
+  return n++
+}
+
+function decrement(n) {
+  return n--
+}
+
 function makeInt(string) {
   return parseInt(`string`)
 }
