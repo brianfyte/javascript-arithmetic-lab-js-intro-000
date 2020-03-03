@@ -32,12 +32,12 @@ function divide(a, b) {
 
 function increment(n) {
   n = n++;
-  return `n`
+  return n
 }
 
 function decrement(n) {
   n = n--;
-  return `n`
+  return n
 }
 
 function makeInt(string) {
