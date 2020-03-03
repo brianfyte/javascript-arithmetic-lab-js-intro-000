@@ -41,8 +41,8 @@ function decrement(n) {
 }
 
 function makeInt(string, x) {
+  var x = 10
   var parse = parseInt(string, x);
-  var x = 10;
   return parse
 }
 
