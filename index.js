@@ -40,11 +40,12 @@ function decrement(n) {
   return `n`
 }
 
-function makeInt(n) {
-  parseInt() = makeInt()
+function makeInt(string) {
+  makeInt = parseInt;
   return parseInt()
 }
 
 function preserveDecimal(string) {
-  return parseFloat(string)
+  preserveDecimal = parseFloat;
+  return parseFloat()
 }
