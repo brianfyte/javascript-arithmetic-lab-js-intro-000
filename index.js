@@ -43,4 +43,6 @@ function decrement(n) {
   return n = n -= 1
 }
 
-function parseInt('3', 10)
+function parseInt('3', 10) {
+  
+}
