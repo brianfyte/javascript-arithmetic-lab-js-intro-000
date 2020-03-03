@@ -36,9 +36,9 @@ divideBy3()
 console.log(number)
 
 function increment(n) {
-  n = n += 1
+  return n = n += 1
 }
 
 function decrement(n) {
-  n = n -= 1
+  return n = n -= 1
 }
