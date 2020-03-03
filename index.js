@@ -40,7 +40,7 @@ function decrement(n) {
   return `n`
 }
 
-function makeInt(string, 10) {
+function makeInt(n) {
   parseInt() = makeInt()
   return parseInt()
 }
